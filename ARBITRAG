@@ -121,12 +121,11 @@ int main()
 		}
 		printf("Case %d: ",c);
 		if(l==n)
-	  	printf("No\n");
+			printf("No\n");
 		else
-		  printf("Yes\n");
+			printf("Yes\n");
 		c++;
 		scanf("%d",&n);
 	}	
 return 0;
 }
-
